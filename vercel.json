@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/_expo/static/js/web/index-9b5fc6c3dc7a2cc43194b7a4abbc8a81.js",
+      "destination": "/api/bundle"
+    }
+  ]
+}
+
